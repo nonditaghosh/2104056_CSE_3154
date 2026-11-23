@@ -1,0 +1,1 @@
+The experiment aims to understand the basic concepts of web development and its technologies, including HTML, CSS, and JavaScript. It also focuses on learning Git and GitHub for version control, creating repositories, and uploading and managing project files.
